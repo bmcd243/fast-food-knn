@@ -1,6 +1,6 @@
 # fast-food-knn
 
-Using K-Nearest Neighbours to determine which fast food restaurant an item is from based on its nutrional value.
+Using K-Nearest Neighbours to determine which fast food restaurant an item is from based on its nutritional value.
 
 The data has been split train:test:validation (60:20:20)
 
